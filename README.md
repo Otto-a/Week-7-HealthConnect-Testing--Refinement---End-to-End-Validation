@@ -9,7 +9,7 @@ HealthConnect Clinic aims to reduce appointment no-shows and improve clinic sche
 In Week 7, the focus was on systematic formula testing, visualization refinement and cross-track model validation.
 
 ## HealthConnect Visualizations
-![Refined Charts](https://github.com/Otto-a/Week-7-HealthConnect-Testing--Refinement---End-to-End-Validation/blob/main/healthconnect_refined_charts.png
+![Refined Charts](https://github.com/Otto-a/Week-7-HealthConnect-Testing--Refinement---End-to-End-Validation/blob/main/healthconnect_refined_charts.png)
 
 ## Week 7 Key Achievements
 * **Automated KPI Testing:** Verified core metrics with unit assertions (100% pass rate).
